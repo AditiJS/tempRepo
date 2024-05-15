@@ -1,7 +1,7 @@
 def main():
     # Prompt the user to enter two numbers
-    num1 = float(input("Enter the first number: "))
-    num2 = float(input("Enter the second number: "))
+    num1 = 5
+    num2 = 6
 
     # Calculate the sum
     sum = num1 + num2
